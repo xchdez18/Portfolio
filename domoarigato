@@ -1,1 +1,13 @@
-<img
+<!DOCTYPE html>
+<html>
+<head>
+<title>Robots</title>
+</head>
+<body>
+
+<h1>Day 1</h1>
+<img src="url" alt="some_text" style="width:width;height:height;">
+<p>My group was able to sucessfully use the jumper wires, resistors, and breadboard to light LEDs. I learned how electricity flows thorugh a circuit, one side of the breadboard (positive) is connected to the other side (negative). </p>
+
+</body>
+</html>
